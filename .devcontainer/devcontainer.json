@@ -1,0 +1,13 @@
+{
+  "name": "BDM Forum Auto Login",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {},
+  "customizations": {
+    "codespaces": {
+      "repositories": {}
+    }
+  },
+  "permissions": "write-all",
+  "forwardPorts": [],
+  "postCreateCommand": ""
+}
